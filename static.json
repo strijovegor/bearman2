@@ -1,0 +1,19 @@
+
+{
+	"headers": {
+		"/*": {
+		"X-Author": "BearStudent",
+		"Access-Control-Allow-Origin": "*"
+		},
+		"/login/": {
+		"X-Author": "BearStudent",
+		"Access-Control-Allow-Origin": "*",
+		"Content-Type": "text/plain; charset=UTF-8"
+		},
+		"/sample/": {
+		"X-Author": "BearStudent",
+		"Access-Control-Allow-Origin": "*",
+		"Content-Type": "text/plain"
+		}
+	}
+}
